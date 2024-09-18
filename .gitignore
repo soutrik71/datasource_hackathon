@@ -132,3 +132,7 @@ dmypy.json
 cython_debug/
 processed_data/
 engineered_data/
+AutogluonModels/
+outputs/
+lightning_logs/
+=1.7
